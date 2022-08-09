@@ -35,7 +35,7 @@ puneett.bhatnagr@gmail.com
   
 
  
-<div>  
+<div align="center">  
   
 <img></a> 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
