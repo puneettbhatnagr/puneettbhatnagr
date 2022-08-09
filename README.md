@@ -29,12 +29,9 @@ puneett.bhatnagr@gmail.com
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>   &nbsp;
 
 </p>
-
   
 </div>
-  
 
- 
 <div align="center">  
   
 <img></a> 
