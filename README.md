@@ -1,4 +1,5 @@
 ## Hi there 👋 I am Puneett Bhatnagr
+&nbsp;
 <div align="center">
   <a href="https://github.com/puneettbhatnagr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=puneettbhatnagr&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
