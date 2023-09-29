@@ -1,11 +1,8 @@
 ## Hi there 👋 I am Puneett Bhatnagr
 &nbsp;
-<div align="center">
+
  ![gitartwork](gitartwork.svg)
- 
- ![snake gif](https://github.com/puneettbhatnagr/puneettbhatnagr/blob/output/github-contribution-grid-snake.gif)
- </div>
- 
+
  &nbsp;
  
 <div align="left">
