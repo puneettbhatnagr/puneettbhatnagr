@@ -1,5 +1,7 @@
 ## Hi there 👋 I am Puneett Bhatnagr
 &nbsp;
+ ![gitartwork](gitartwork.svg)
+ &nbsp;
 <div align="center">
   <a href="https://github.com/puneettbhatnagr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=puneettbhatnagr&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
@@ -33,7 +35,7 @@ puneett.bhatnagr@gmail.com
   
 </div>
 
- ![gitartwork](gitartwork.svg)
+
  
 ![snake gif](https://github.com/puneettbhatnagr/puneettbhatnagr/blob/output/github-contribution-grid-snake.gif)
  
