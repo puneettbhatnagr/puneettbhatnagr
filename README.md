@@ -8,7 +8,7 @@
 
 
 
-<h3 align="center">I'm a passionate Data Science, Analytics and visualization expert in India. </h3>
+<h2 align="center">I'm a passionate 📈 Data Science, 📊 Analytics and 📶 Visualization expert in India. </h2>
 
 <br/>
 
