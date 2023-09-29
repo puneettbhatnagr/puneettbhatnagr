@@ -1,6 +1,8 @@
 ## Hi there 👋 I am Puneett Bhatnagr
 &nbsp;
+<div align="center">
  ![gitartwork](gitartwork.svg)
+ </div>
  &nbsp;
 <div align="center">
   <a href="https://github.com/puneettbhatnagr">
