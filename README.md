@@ -33,9 +33,8 @@ puneett.bhatnagr@gmail.com
   
 </div>
 
-<div align="center">  
+
   
 ![snake gif](https://github.com/puneettbhatnagr/puneettbhatnagr/blob/output/github-contribution-grid-snake.gif)
  
-</div>
 
