@@ -1,9 +1,9 @@
 ## Hi there 👋 I am Puneett Bhatnagr
-&nbsp;
+
 
  ![gitartwork](gitartwork.svg)
 
- &nbsp;
+
  
 <div align="center">
   <a href="https://github.com/puneettbhatnagr">
@@ -44,6 +44,9 @@ puneett.bhatnagr@gmail.com
 </p>
   
 </div>
+&nbsp;
+
+<h3 align="left">My Contribution to GitHub:</h3>
 
 ![snake gif](https://github.com/puneettbhatnagr/puneettbhatnagr/blob/output/github-contribution-grid-snake.gif)
  
