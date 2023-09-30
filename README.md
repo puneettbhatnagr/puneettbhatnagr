@@ -62,7 +62,7 @@
     
  ![gitartwork](github-contribution-grid-snake.gif)
 
-  <br/><br/><br/>
+  <br/>
 </div>
 
 
